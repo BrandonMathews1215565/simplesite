@@ -325,8 +325,8 @@ h1, h2, h3, h4, h5, h6 {
 # Hero Section
 --------------------------------------------------------------*/
 #hero {
-  width: 200%;
-  height: 200vh;
+  width: 100%;
+  height: 100vh;
   background: url(https://github.com/BrandonMathews1215565/simplesite/blob/main/Untitled%20design.png?raw=true) top center;
   background-size: cover;
   position: relative;
